@@ -1,0 +1,15 @@
+c:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.AssemblyInfoInputs.cache
+c:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.AssemblyInfo.cs
+c:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.csproj.CoreCompileInputs.cache
+c:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.sourcelink.json
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\bin\Debug\net8.0\CP2.exe
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\bin\Debug\net8.0\CP2.deps.json
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\bin\Debug\net8.0\CP2.runtimeconfig.json
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\bin\Debug\net8.0\CP2.dll
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\bin\Debug\net8.0\CP2.pdb
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.dll
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\refint\CP2.dll
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.pdb
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\CP2.genruntimeconfig.cache
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP2\obj\Debug\net8.0\ref\CP2.dll
