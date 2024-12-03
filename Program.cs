@@ -18,7 +18,7 @@ static void MwdioLimon()
     Console.WriteLine("La cadena de texto con medio limon al final es: " + line + " medio limon. ");
 }
 
-static void Duplo()
+static void Double()
 {
     Console.WriteLine("Entre un numero entero: ");
 
@@ -43,7 +43,7 @@ static void Min_Max()
     Console.WriteLine(max);
 }
 
-static void Center_Average()
+static void Middle_Average()
 {
     Console.WriteLine("Introduzca tres numeros enteros: ");
 
@@ -73,7 +73,7 @@ static void Character()
     Console.WriteLine($"La letra de la posision {number1} es: {character}");
 }
 
-static void IntercambioVariables_1()
+static void ExchangeVariables_1()
 {
     Console.WriteLine("Introduzca el numero 1: ");
     int number1 = int.Parse(Console.ReadLine());
@@ -88,7 +88,7 @@ static void IntercambioVariables_1()
     Console.WriteLine($"El numero 1 es: {number1} \n El numero 2 es: {number2} ");
 }
 
-static void IntercambioVariables_2()
+static void ExchangeVariables_2()
 {
     Console.WriteLine("Introduzca el numero 1: ");
     int number1 = int.Parse(Console.ReadLine());
@@ -103,7 +103,7 @@ static void IntercambioVariables_2()
     Console.WriteLine($"El numero 1 es: {number1} \n El numero 2 es: {number2} ");
 }
 
-static void Circunferencia()
+static void Circle()
 {
     Console.WriteLine("Introduzca el radio de la circunferencia: ");
 
@@ -114,7 +114,7 @@ static void Circunferencia()
     Console.WriteLine($"El valor del area sombreada es {area}");
 }
 
-static void EcuacionCuadratica()
+static void QuadraticEquation()
 {
     Console.WriteLine("Introduzca los coeficientes de una ecuacion cuadratica: ");
 
@@ -128,7 +128,7 @@ static void EcuacionCuadratica()
     Console.WriteLine($"Solucion1: {solution1} \n Solucion2: {solution2} ");
 }
 
-static void VelocidadEscritura_1()
+static void WritingSpeed_1()
 {
     Console.WriteLine("Introduzca un texto para ver que tiempo demora en hacerlo: ");
 
@@ -143,7 +143,7 @@ static void VelocidadEscritura_1()
     Console.WriteLine($"El tiempo en segundos que te demoraste en escribir el texto fue: {speed} s ");
 }
 
-static void VelocidadEscritura_2()
+static void WritingSpeed_2()
 {
     Console.WriteLine("Introduzca un texto para ver que tiempo demora en hacerlo: ");
 
@@ -155,7 +155,7 @@ static void VelocidadEscritura_2()
     Console.WriteLine($"El tiempo en segundos que te demoraste en escribir el texto fue: {speed} s ");
 }
 
-static void FechaNacimiento()
+static void DateOfBirth()
 {
     Console.WriteLine("Introduzca su ID: ");
     long cd = long.Parse(Console.ReadLine());
